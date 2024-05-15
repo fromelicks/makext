@@ -1,0 +1,3 @@
+no-hard-tabs:
+  ignore_code_languages:
+  - make

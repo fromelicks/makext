@@ -232,7 +232,9 @@ After that they can be used in your recipes like all the other variables
 you have. They will however override variables the shell already has
 defined.
 
-## Alternative tools
+## References
+
+### Alternative tools
 
 - https://github.com/rocky/remake
 - https://github.com/casey/just
@@ -242,7 +244,7 @@ defined.
 - https://github.com/go-task/task
 - https://github.com/pydoit/doit
 
-## Acknowledgment
+### Acknowledgment
 
 - https://stackoverflow.com/a/59087509
 

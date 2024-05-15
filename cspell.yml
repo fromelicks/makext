@@ -1,0 +1,8 @@
+dictionaries:
+  - softwareTerms
+  - bash
+  - filetypes
+words:
+  - makext
+ignoreWords:
+  - Sonoma
