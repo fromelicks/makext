@@ -3,7 +3,7 @@ MEX_LICENSE="Released under the BSD two-clause license, see the LICENSE file for
 MEX_ASSURE="python3 ls tree clang"
 MEX_ENVIRONMENT="local.env second.env"
 
-include makext.mk
+include ../src/makext.mk
 
 help: .help
 

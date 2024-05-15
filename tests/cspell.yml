@@ -1,0 +1,6 @@
+import: ../cspell.yml
+
+ignoreWords:
+  - mydatabase
+  - mypassword
+  - myuser

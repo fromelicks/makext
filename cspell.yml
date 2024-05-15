@@ -6,3 +6,4 @@ words:
   - makext
 ignoreWords:
   - Sonoma
+  - envars
